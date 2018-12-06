@@ -1,0 +1,46 @@
+* {
+    font-family: helvetica;
+}
+
+body {
+    background-color: #DDD;
+}
+
+p {
+	color:red;
+}
+/* #######################
+   ## blog title #########
+   ####################### */
+header a {
+    text-decoration: none;
+    text-shadow: 4px 4px 12px #BBB;
+}
+
+header a:hover { /* accentuate shadow when hovered */
+    text-shadow: 4px 4px 12px #999;
+}
+
+header h1 {
+    color: #222;
+    font-size: 7em;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+}
+
+
+
+
+/* #######################
+   ## contact section ####
+   ####################### */
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0px 30px 0px;
+}
+
+footer img {
+    padding: 5px 8px 5px 8px;
+}
