@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/pierreguilmin/test/badge)](https://www.codefactor.io/repository/github/pierreguilmin/test)
+
 <!-- top centered logo with link to web page -->
 <p align="center">
     <a href="src/index.html">
